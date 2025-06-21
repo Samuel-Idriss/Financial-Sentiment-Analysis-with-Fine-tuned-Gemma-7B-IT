@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
+peft
+trl
+accelerate
+bitsandbytes
+datasets
+ipywidgets # Often used in notebooks, good to include
+tqdm
